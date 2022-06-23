@@ -9,6 +9,11 @@ body, html {
   	background-size: cover;
 }
 
+.navbar {
+	border-bottom: 2px solid grey;
+	margin-bottom: 2rem;
+}
+
 h1 {
 	font-size: 3rem;
 	color: #ffffff;
