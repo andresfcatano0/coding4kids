@@ -46,6 +46,10 @@ img {
 	height: 15rem;
 }
 
+.scratch img {
+	width: 25rem;
+	height: 15rem;
+}
 
 .card {
 	background-color: transparent;
@@ -55,8 +59,8 @@ img {
 
 #eight, #ten {
 	border: 5px solid white;
-  	background-color: grey;
-    padding: 3rem;
+  background-color: grey;
+  padding: 3rem;
 	margin-top: 3rem;
 	margin-bottom: 3rem;
 }
